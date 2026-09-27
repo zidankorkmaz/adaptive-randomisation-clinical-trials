@@ -10,5 +10,5 @@ A Monte Carlo simulation study in R (48,000+ trials) comparing fixed and Bayesia
 - Adaptive gains **do not fully carry over** to cluster-randomised trials
 
 ## Files
-- `adaptive_randomisation_simulation.R`: simulation code
-- `project_report.pdf`: full report
+- `R Code Final.R`: simulation code
+- `Final_Project.pdf`: full report
